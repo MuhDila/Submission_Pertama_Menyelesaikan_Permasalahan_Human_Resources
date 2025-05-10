@@ -1,0 +1,11 @@
+Feature,Importance
+cat__OverTime_Yes,0.20734054525348408
+num__TotalWorkingYears,0.10524815796417206
+num__MonthlyIncome,0.1045299319244709
+num__StockOptionLevel,0.09921850053440834
+num__Age,0.09705540810194964
+num__EnvironmentSatisfaction,0.08871675387812437
+num__YearsAtCompany,0.0823307153374854
+cat__MaritalStatus_Single,0.07552224423337157
+num__YearsInCurrentRole,0.07510919292132288
+num__JobLevel,0.06492854985121076
